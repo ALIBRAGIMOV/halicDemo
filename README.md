@@ -1,4 +1,4 @@
-# prichal
+# prichal demo
 
 ## Project setup
 ```
