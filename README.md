@@ -1,5 +1,5 @@
-# prichal demo
-
+# prichal demo - https://alibragimov.github.io/prichal/ - live
+ 
 ## Project setup
 ```
 npm install
